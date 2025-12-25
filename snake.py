@@ -1,7 +1,7 @@
 """
 Snake Game with Q-Learning (Epoch-Based Training)
 
-Author  : Cherisma
+Author  : Anamala Muni Cherisma
 Language: Python (Tkinter)
 Concept : Reinforcement Learning - Q Learning
 
@@ -319,3 +319,4 @@ food = Food()
 
 game_step()
 window.mainloop()
+
