@@ -45,6 +45,7 @@ learning from rewards and penalties.
 ## Author
 Anamala Muni Cherisma
 
+## Requirements
+numpy
+matplotlib
 
-## 🔹 How to Run
-1. Install dependencies:
